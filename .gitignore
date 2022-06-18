@@ -1,0 +1,5 @@
+/dataset*
+/.vscode
+/output
+*.pyc
+.*.swp
