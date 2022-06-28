@@ -117,7 +117,7 @@ python3 -m app
 Weights are loaded from the checkpoint files in the `output` directory. Pretrained checkpoints are also available in [output.zip](https://bit.ly/3zJRXQv).
 
 ```sh
-unzip -d output checkpoint.zip
+unzip -d output output.zip
 ```
 
 ## Citation
